@@ -1,6 +1,8 @@
-#include <stidio.h>
-#include <stlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-void main (){
-  printf("Hola mundo estoy colaborando");
+void main ()
+{
+  printf("Tengo hambre");
+
 }
